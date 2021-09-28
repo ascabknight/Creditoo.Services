@@ -1,0 +1,20 @@
+{
+  "apiKey": "9e93b6d7-7e01-4852-8b76-9ca070c00ffb",
+  "productKey": "4afe5fc8-9655-40a8-b39b-aeb9691102b7",
+  "baseUrl": "https://grc.tauruseer.com/",
+  "exclude": [
+    "gradle-wrapper.jar"
+  ],
+  "excludeFolders": [
+    ".git",
+    "obj",
+    "jenkins-for-test",
+    "bin",
+    "packages",
+    "gradle",
+    "one-jar-build"
+  ],
+  "dependencyFolders": [
+    "lib"
+  ]
+}
